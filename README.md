@@ -34,7 +34,7 @@ segmentation_of_blood_vessels-main
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install --user opencv-python-headless numpy matplotlib
    ```
 
 ## Usage
